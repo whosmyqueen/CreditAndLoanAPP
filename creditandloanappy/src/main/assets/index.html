@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" Content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<meta name="format-detection" content="telephone=no">
+	<meta http-equiv="x-rim-auto-match" content="none">
+	<title>Document</title>
+	<link rel="stylesheet" href="css/reset.css">
+	<link rel="stylesheet" href="css/help_center.css">
+	<script type="text/javascript">
+		(function () {  
+		    var b = document.documentElement,  
+		        a = function () {  
+		            var a = b.getBoundingClientRect().width;  
+		            b.style.fontSize = (a /640) * 100+ "px";  
+		        }, 
+		        c = null;  
+			    window.addEventListener("resize", function () {  
+			        clearTimeout(c);  
+			        c = setTimeout(a, 300);  
+			    });  
+		    a();  
+        })()
+
+	</script>
+	
+</head>
+<body>
+<div class="wrap">
+	<div class="banner_tel">
+		<img src="img/banner.png" >
+		<div class="banner">
+			<img src="img/help.png" alt="400-702-6677" align="center" id="callPhone">
+		</div>
+	</div>
+	
+	<div class="main" >
+
+	</div>
+</div>
+	
+ 	<script type="text/javascript" src="js/zepto.min.js"></script>
+	<script type="text/javascript" src="js/help_center.js"></script>
+
+</body>
+</html>

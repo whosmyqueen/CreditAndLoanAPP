@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">测试正好分期</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="loading_view_click_loading_more">点击加载更多</string>
+    <string name="loading_view_no_more">没有更多了</string>
+    <string name="loading_view_loading">加载中…</string>
+    <string name="loading_view_net_error">网路异常，点击重试</string>
+    <string name="ok">确定</string>
+    <string name="login">登录</string>
+    <string name="lookStage">查看订单</string>
+    <string name="exit_tip">再按一次退出程序</string>
+    <string name="user_agreement">
+        <u>《用户注册协议》</u>
+    </string>
+
+    <string name="service_iphone">客服电话：400-702-6677</string>
+    <string name="scan_text"></string>
+
+    <string name="user_register">
+        <u>《用户注册协议》</u>
+    </string>
+
+    <string name="debt_service">
+        <u>《信息咨询服务协议》</u>
+    </string>
+    <string name="personal_loan">
+        <u>《委托划扣授权书》</u>
+    </string>
+    <string name="give_security">
+        <u>《团贷网服务协议》</u>
+    </string>
+    <string name="service">
+        <u>《提供担保协议书》</u>
+    </string>
+    <string name="power_of_attorney">
+        <u>《授权委托书》</u>
+    </string>
+    <string name="message_service">
+        <u>《借款服务协议》</u>
+    </string>
+    <string name="Commissioned_among">
+        <u>《还款事项提醒函》</u>
+    </string>
+    <string name="insurance_contract">
+        <u>《个人借款确认书》</u>
+    </string>
+    <string name="title_activity_my_stage">MyStageActivity</string>
+    <string name="order">我的订单</string>
+    <string name="online_repayment">在线还款</string>
+    <string name="mine">我的</string>
+    <string name="home">首页</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fenqi_helper">分期助手</string>
+    <string name="account_settings">账户设置</string>
+    <string name="order_detail">分期详情</string>
+    <string name="census">户籍/家庭</string>
+    <string name="base_info">基本资料</string>
+    <string name="family_info">家庭信息</string>
+    <string name="sign_contact">签约</string>
+    <string name="xxzx">信息咨询服务协议</string>
+    <string name="wthk">委托划扣授权书</string>
+    <string name="tdwfw">团贷网服务协议</string>
+    <string name="tgdb">提供担保协议书</string>
+    <string name="sqwt">授权委托书</string>
+    <string name="jkfw">借款服务协议</string>
+    <string name="hksx">还款事项提醒函</string>
+    <string name="grjk">个人借款确认书</string>
+    <string name="xdfxgl">
+        信贷风险管理咨询及保险经纪服务委托协议书
+    </string>
+    <string name="sign">签名</string>
+    <string name="go_look">去查看</string>
+    <string name="order_is_update">订单状态已更新</string>
+    <string name="mine_bank_card">我的银行卡</string>
+
+
+    <string name="no_net">您已进入了没有网络的异次元</string>
+    <string name="service_error">服务器异常</string>
+    <string name="service_timeout">请求超时，请重试</string>
+    <string name="income">收入/支出信息</string>
+    <string name="cancel">取消</string>
+    <string name="cust_info">身份信息</string>
+    <string name="no_ok">未完成</string>
+    <string name="is_not_no_ok">已完成</string>
+    <string name="jjzxfwxy">社会经济咨询服务协议</string>
+</resources>

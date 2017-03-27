@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBottomChecked">#38454f</color>
+    <color name="colorBottomNoChecked">#98a6af</color>
+
+    <color name="colorTabBackground">#f7f7f7</color>
+    <color name="colorTabTextChecked">#e40011</color>
+    <color name="colorTabTextNoChecked">#808080</color>
+    <color name="colorText">#323232</color>
+    <color name="color_00">#8A000000</color>
+    <color name="text_color_hint">#C7C7CC</color>
+
+
+
+
+    <color name="adopt_normal">#a9b7b7</color>
+    <color name="adopt_selected">#438EB9</color>
+
+    <color name="contents_text">#ff000000</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="possible_result_points">#c0ffbd21</color> <!-- Android standard ICS color -->
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c099cc00</color> <!-- Android standard ICS color -->
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b2000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="viewfinder_laser">#ffcc0000</color> <!-- Android standard ICS color -->
+    <color name="viewfinder_mask">#b2000000</color>
+
+
+
+
+    <color name="DeepBlue">#0690f0</color>
+    <color name="gray_b9b9b9">#b9b9b9</color>
+    <color name="gray_848689">#848689</color>
+    <color name="gray_b3b3b5">#b3b3b5</color>
+    <color name="grey_e0e0e0">#e0e0e0</color>
+    <color name="gray_f2f2f2">#f2f2f2</color>
+    <color name="gray_323232">#323232</color>
+    <color name="gray_676767">#676767</color>
+    <color name="gray_656566">#656566</color>
+    <color name="white_ffffff">#ffffff</color>
+    <color name="view_line">#e3e3e3</color>
+    <color name="text_color">#323232</color>
+    <color name="cement_grey">#676767</color>
+    <color name="dialog_button_text_color">#ffff6a22</color>
+    <color name="dialog_title_color">#ff333333</color>
+    <color name="dialog_content_color">#ff495a6d</color>
+    <color name="dialog_blue">#ff0079ff</color>
+    <color name="city_search_bg">#f2f2f2</color>
+    <color name="city_item_divider_color">#ffdddddc</color>
+    <color name="click_gray">#ffd9d9d9</color>
+    <color name="line_gray">#ffd7d7d7</color>
+    <color name="deep_gray">#ff333333</color>
+    <color name="inner_divider">#ffe1e1e1</color>
+    <color name="uniform_light_gray">#ff787878</color>
+    <color name="uniform_black">#ff161616</color>
+    <color name="red">#FFC93437</color>
+    <color name="blue">#FF375BF1</color>
+    <color name="yellow">#FFF7D23E</color>
+    <color name="green">#FF34A350</color>
+    <color name="red_money">#FF4a4a</color>
+    <color name="gray_f9f9f9">#f9f9f9</color>
+    <color name="gray_e2e2e4">#e2e2e4</color>
+    <color name="gray_252525">#252525</color>
+    <color name="gray_828282">#828282</color>
+    <color name="blue_0690f0">#0690f0</color>
+    <color name="yellow_ff4c01">#ff4c01</color>
+    <color name="gray_fcfcfc">#fcfcfc</color>
+    <color name="green_21b24b">#21b24b</color>
+    <color name="red_e60012">#e60012</color>
+
+    <color name="white">#ffffff</color>
+    <color name="line">#c9caca</color>
+    <color name="pink">#E91E63</color>
+    <color name="yellow_ff7e00">#ff7e00</color>
+    <color name="gray_aeaeae">#aeaeae</color>
+    <color name="grey_c7c7cc">#c7c7cc</color>
+    <color name="province_line_border">#C7C7C7</color>
+    <color name="red_c90003">#c90003</color>
+</resources>

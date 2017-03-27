@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/btn_bill_item_quhuank_sel" android:state_pressed="true"/>
+    <item android:drawable="@drawable/btn_bill_item_quhuank_enb" android:state_enabled="false"/>
+    <item android:drawable="@drawable/btn_bill_item_quhuank_def"/>
+
+
+</selector>

@@ -1,0 +1,66 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:background="@color/gray_f9f9f9">
+
+    <!--错误页面头布局 gone-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:visibility="gone">
+
+        <ImageView
+            android:id="@+id/iv_error_return"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/btn_title_back"/>
+
+        <TextView
+            android:id="@+id/tv_error_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="页面名称"
+            android:textColor="#323232"
+            android:textSize="18sp"/>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/page_iv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:scaleType="centerInside"
+        />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:text="网络出问题啦~"
+            android:textColor="@color/gray_656566"
+            android:textSize="15sp"/>
+
+
+        <Button
+            android:id="@+id/bt_error"
+            android:layout_width="86dp"
+            android:layout_height="35dp"
+            android:layout_below="@+id/page_iv"
+            android:layout_marginTop="25dp"
+            android:gravity="center"
+            android:text="刷新"
+            android:textColor="@color/blue_0690f0"
+            android:textSize="16sp"/>
+    </LinearLayout>
+
+</FrameLayout>

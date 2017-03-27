@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="gank_content">
+        <item>福利</item>
+        <item>Android</item>
+        <item>IOS</item>
+        <item>休息视频</item>
+        <item>拓展资源</item>
+        <item>前端</item>
+    </array>
+
+    <array name="images_category_list">
+        <item>美女</item>
+        <item>动漫</item>
+        <item>明星</item>
+        <item>汽车</item>
+        <item>摄影</item>
+        <item>美食</item>
+    </array>
+</resources>

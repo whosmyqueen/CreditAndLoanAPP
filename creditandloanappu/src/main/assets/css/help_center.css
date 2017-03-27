@@ -1,0 +1,80 @@
+@charset "UTF-8";
+@import url("reset.css");
+img {
+  max-width: 100%; }
+
+body {
+  -webkit-user-select: none;
+  -webkit-font-size-adjust: none;
+  -webkit-tap-highlight-color: reba(0, 0, 0, 0); }
+
+input, select, textarea {
+  -webkit-appearance: none; }
+
+a {
+  text-decoration: none; }
+
+html, body {
+  width: 100%;
+  height: auto;
+  background: #f7f7f7;
+  over-flow-x: hidden; }
+
+.wrap {
+  width: 100%;
+  height: auto;
+  position: relative;
+  font-family: "微软雅黑"; }
+
+.banner_tel {
+  width: 100%;
+  height: auto;
+  margin-bottom: 1.00rem;
+  position: relative; }
+  .banner_tel .banner {
+    width: 100%;
+    position: absolute;
+    left: 0;
+    bottom: -0.50rem;
+    text-align: center; }
+    .banner_tel .banner img {
+      width: 4.90rem;
+      height: 1.10rem; }
+
+.main {
+  width: 100%;
+  height: auto;
+  -webkit-overflow-scrolling: touch;
+  overflow-scrolling: touch;
+  background: #ffffff;
+  border-top: 1px solid #dcdcdc;
+  border-bottom: 1px solid #dcdcdc; }
+  .main h2 {
+    height: 0.90rem;
+    line-height: 0.90rem;
+    padding-left: 0.24rem; }
+    .main h2:last-child {
+      border: none; }
+  .main p {
+    display: block;
+    border-bottom: 1px solid #dcdcdc;
+    padding-left: 0.16rem; }
+    .main p a {
+      font-size: 14px;
+      color: #676767; }
+      .main p a b {
+        width: 280px;
+        display: block;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        -o-text-overflow: ellipsis;
+        -webkit-text-overflow: ellipsis;
+        -moz-text-overflow: ellipsis;
+        white-space: nowrap; }
+      .main p a span {
+        font-size: 16px;
+        color: #e60012;
+        display: inline-block;
+        padding-right: 5px; }
+
+/*# sourceMappingURL=help_center.css.map */
